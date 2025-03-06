@@ -26,12 +26,6 @@ This project develops an AI-driven WhatsApp chatbot designed to provide academic
 - Scales support services without proportional increase in resource requirements
 - Bridges communication gaps in the South African higher education context
 
-## Documentation
-- [System Specification](SPECIFICATION.md)- Detailed functional and non-functional requirements
-- [Architecture Design](C4_Architectural_Digrams.md) - C4 architectural diagrams and system design
-- **API Documentation** - API endpoints and integration specifications
-- **User Guide** - Guide for students on using the chatbot
-- **Admin Guide** - Guide for administrative staff
 
 ## Implementation Roadmap
 - **Phase 1 (Foundation):** Core NLP engine, WhatsApp integration, basic FAQ responses
@@ -46,10 +40,14 @@ This project develops an AI-driven WhatsApp chatbot designed to provide academic
 - Docker
 - WhatsApp Business API credentials
 
-## Assignment 4 Documentation
+## Documentation
+- [System Specification](SPECIFICATION.md)- Detailed functional and non-functional requirements
+- [Architecture Design](C4_Architectural_Digrams.md) - C4 architectural diagrams and system design
 - [Stakeholder Analysis](STAKEHOLDER_ANALYSIS.md) - Detailed analysis of stakeholders and their concerns
 - [System Requirements Document](SYSTEM_REQUIREMENTS.md) - Functional and non-functional requirements
 - [Reflection](REFLECTION.md) - Challenges faced in balancing stakeholder needs
-
+- **API Documentation** - API endpoints and integration specifications
+- **User Guide** - Guide for students on using the chatbot
+- **Admin Guide** - Guide for administrative staff
 
 
