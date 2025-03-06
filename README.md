@@ -27,7 +27,7 @@ This project develops an AI-driven WhatsApp chatbot designed to provide academic
 - Bridges communication gaps in the South African higher education context
 
 ## Documentation
-- **System Specification** - Detailed functional and non-functional requirements
+- [**System Specification**] (SPECIFICATION.md)- Detailed functional and non-functional requirements
 - **Architecture Design** - C4 architectural diagrams and system design
 - **API Documentation** - API endpoints and integration specifications
 - **User Guide** - Guide for students on using the chatbot
