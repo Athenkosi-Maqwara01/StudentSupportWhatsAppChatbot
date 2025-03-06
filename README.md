@@ -46,6 +46,10 @@ This project develops an AI-driven WhatsApp chatbot designed to provide academic
 - Docker
 - WhatsApp Business API credentials
 
-## Contributing
-Contributions are welcome! Please read the contributing guide for details on our code of conduct and the process for submitting pull requests.
+## Assignment 4 Documentation
+- [Stakeholder Analysis](STAKEHOLDER_ANALYSIS.md) - Detailed analysis of stakeholders and their concerns
+- [System Requirements Document](SYSTEM_REQUIREMENTS.md) - Functional and non-functional requirements
+- [Reflection](REFLECTION.md) - Challenges faced in balancing stakeholder needs
+
+
 
