@@ -6,6 +6,9 @@
 
 The UML use case diagram visualizes how different actors interact with the AI-Powered WhatsApp Chatbot system.
 
+![Untitled diagram-2025-03-16-084530](https://github.com/user-attachments/assets/3e8f0691-df32-4dc6-8c59-e02c4eba91f2)
+
+
 ### 2. Key Actors and Their Roles
 
 1. **Student**
