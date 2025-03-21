@@ -46,6 +46,8 @@ This project develops an AI-driven WhatsApp chatbot designed to provide academic
 - [Stakeholder Analysis](STAKEHOLDER_ANALYSIS.md) - Detailed analysis of stakeholders and their concerns
 - [System Requirements Document](SYSTEM_REQUIREMENTS.md) - Functional and non-functional requirements
 - [Reflection](REFLECTION.md) - Challenges faced in balancing stakeholder needs
+- [Agile Planning Document](AGILE_PLANNING_DOCUMENT.md) - Contains user stories, product backlog, and sprint planning
+- [Reflection Document](REFLECTION.md) - Challenges in prioritization, estimation, and Agile implementation
 - **API Documentation** - API endpoints and integration specifications
 - **User Guide** - Guide for students on using the chatbot
 - **Admin Guide** - Guide for administrative staff
