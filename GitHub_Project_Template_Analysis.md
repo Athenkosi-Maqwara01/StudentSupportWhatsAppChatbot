@@ -34,5 +34,5 @@ For the AI-Powered WhatsApp Chatbot for South African Higher Education Instituti
 
 The Automated Kanban template provides the right balance of structure and flexibility for our project requirements. It supports our development-focused tasks while offering automation that reduces administrative overhead, allowing the team to focus on delivering value.
 
-### Screenshot of Our Kanban Board
-![image](https://github.com/user-attachments/assets/4905de11-c037-479a-97b8-3a2baa6830ee)
+### Our Kanban Board
+![image](https://github.com/user-attachments/assets/3ba88b52-11bf-4d75-8566-af6a5d9d8027)
